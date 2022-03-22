@@ -7,6 +7,7 @@ namespace Gitkonfliktuskezeles
         static void Main(string[] args)
         {
             string s = "";
+            string ss = "";
             Console.WriteLine("Hello World!");
         }
     }
